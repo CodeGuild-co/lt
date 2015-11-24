@@ -44,7 +44,3 @@ group :development do
 end
 
 gem 'puma'
-
-gem "markdown-rails"
-gem "redcarpet"
-gem "pygments.rb"
