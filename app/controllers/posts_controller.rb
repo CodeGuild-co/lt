@@ -1,4 +1,4 @@
 class PostsController < ApplicationController
-  def hello_world
+  def blog_post_1
   end
 end
