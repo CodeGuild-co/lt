@@ -3,10 +3,6 @@ class PostsController < ApplicationController
   end
   def blog_post_1
   end
-  def hello_world
-  end
   def billys_guest_post
-	end
-	def test_doc
 	end
 end
