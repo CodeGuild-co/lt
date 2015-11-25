@@ -5,6 +5,6 @@ class PostsController < ApplicationController
   end
   def hello_world
   end
-  def billys_post
+  def billys_guest_post
 	end
 end

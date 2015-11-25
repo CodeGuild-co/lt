@@ -4,7 +4,7 @@ Rails.application.routes.draw do
   
   get 'posts/blog_post_1'
 	get 'posts/billys_guest_post'
-
+	get 'posts/*'
   get 'home/index'
 
   # The priority is based upon order of creation: first created -> highest priority.

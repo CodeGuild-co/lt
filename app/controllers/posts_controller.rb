@@ -7,4 +7,6 @@ class PostsController < ApplicationController
   end
   def billys_guest_post
 	end
+	def test_doc
+	end
 end

@@ -3,7 +3,7 @@ Rails.application.routes.draw do
 
   
   get 'posts/blog_post_1'
-	get 'posts/billys_post'
+	get 'posts/billys_guest_post'
 
   get 'home/index'
 
