@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+	get 'posts/blog_post_3'
   get 'posts/blog_post_2'
   get 'posts/blog_post_1'
 	get 'posts/billys_guest_post'

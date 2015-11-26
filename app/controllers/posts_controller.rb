@@ -1,5 +1,7 @@
 class PostsController < ApplicationController
-  def blog_post_2
+  def blog_post_3
+	end 
+	def blog_post_2
   end
   def blog_post_1
   end
